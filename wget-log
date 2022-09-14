@@ -1,0 +1,24 @@
+Resolving !<arch> (!<arch>)... failed: Name or service not known.
+wget: unable to resolve host address ‘!<arch>’
+--2022-09-13 13:04:20--  http://debian-binary%20%20%201662018413%20%200%20%20%20%20%200%20%20%20%20%20100644%20%204%20%20%20%20%20%20%20%20%20%60/
+Resolving debian-binary   1662018413  0     0     100644  4         ` (debian-binary   1662018413  0     0     100644  4         `)... failed: Name or service not known.
+wget: unable to resolve host address ‘debian-binary   1662018413  0     0     100644  4         `’
+--2022-09-13 13:04:20--  http://2.0/
+Resolving 2.0 (2.0)... 2.0.0.0
+Connecting to 2.0 (2.0)|2.0.0.0|:80... failed: Connection timed out.
+Retrying.
+
+--2022-09-13 13:06:32--  (try: 2)  http://2.0/
+Connecting to 2.0 (2.0)|2.0.0.0|:80... failed: Connection timed out.
+Retrying.
+
+--2022-09-13 13:08:44--  (try: 3)  http://2.0/
+Connecting to 2.0 (2.0)|2.0.0.0|:80... failed: Connection timed out.
+Retrying.
+
+--2022-09-13 13:10:58--  (try: 4)  http://2.0/
+Connecting to 2.0 (2.0)|2.0.0.0|:80... failed: Connection timed out.
+Retrying.
+
+--2022-09-13 13:13:12--  (try: 5)  http://2.0/
+Connecting to 2.0 (2.0)|2.0.0.0|:80... 
